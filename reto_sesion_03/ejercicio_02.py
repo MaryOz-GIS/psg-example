@@ -1,10 +1,8 @@
-múltiples print muestra un diálogo entre una persona y su gato,
-donde salude al gato, el gato responda, la persona le haga una pregunta y el gato le responda, al final se despiden
-print ("Karen: Oh mi negrita, que hiciste hoy?")
+print("Karen: Oh mi negrita, que hiciste hoy?")
 print("Negrita: Umm comi el atun que dejaste en la ventana, es mi favorio Karen, como supiste?")
 print("Negrita: Despues dormi, es que comi muucho")
 print("Negrita: cuando desperte ,estaba tan feliz que cante mi cancion favorita?")
-print ("Karen: cantamela ?")
+print("Karen: cantamela ?")
 print("Negrita: oki, miau miau  miauuu miau miau  miauuu miau miau miau uuuu miau miau  miauuu?")
-print ("Karen: gracias por la serenata, ya me voy a casa, te traere algo delicioso si hermosa")
+print("Karen: gracias por la serenata, ya me voy a casa, te traere algo delicioso si hermosa")
 print("gracias mi Karen, gracias por cuidarme a pesar de vivir en la calle")
